@@ -11,21 +11,21 @@
 
 * **1º CAP** Bem-vindo ao Maravilhoso mundo do Linux
 
-    * Mercado Linux :white_check_mark:
-    * Certificações Linux
-    * Historia do Linux
-    * Licença Open Source
-    * Evolução do Linux
-    * Conhecendo Linux e suas aplicações
+    * :white_check_mark: Mercado Linux 
+    * :white_check_mark: Certificações Linux
+    * :white_check_mark: Historia do Linux
+    * :white_check_mark: Licença Open Source
+    * :white_check_mark: Evolução do Linux
+    * :white_check_mark: Conhecendo Linux e suas aplicações
 
 * **2º CAP** Primeiros passos no Linux
 
-    * Infraestrutura do curso
-    * Terminais Virtuais 
-    * Execução dos Priemiros Comandos
-    * Shell e variaveis Locais e de ambiente(Globais)
-    * Arquivos de Configuração do Shell
-    * Caminhos de Diretorios
+    * :white_check_mark: Infraestrutura do curso
+    * :white_check_mark: Terminais Virtuais 
+    * :white_check_mark: Execução dos Priemiros Comandos
+    * :white_check_mark: Shell e variaveis Locais e de ambiente(Globais)
+    * :white_check_mark: Arquivos de Configuração do Shell
+    * :white_check_mark: Caminhos de Diretorios
 
 * **3º CAP** Obtendo ajuda no Linux
 
