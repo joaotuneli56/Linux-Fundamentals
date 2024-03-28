@@ -3,9 +3,7 @@
 
 ![alt text](images/logo.jpg)
 
-<br>
-
-### curso Introdutorio de linux na plataforma [4 Linux](https://4linux.com.br/cursos/assinatura/linux/?gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TmU9SnKsuE7YU5llOaF1RuNVIyXO4EIWTNVvzVlzTUXTS4e6OA3i5kaAkuNEALw_wcB)
+### Curso Introdutorio de linux na plataforma [4 Linux](https://4linux.com.br/cursos/assinatura/linux/?gad_source=1&gclid=Cj0KCQjwqpSwBhClARIsADlZ_TmU9SnKsuE7YU5llOaF1RuNVIyXO4EIWTNVvzVlzTUXTS4e6OA3i5kaAkuNEALw_wcB)
 
 ### Segue ementa do curso:
 
