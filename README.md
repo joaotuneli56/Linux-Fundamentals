@@ -27,4 +27,9 @@
 
 * **3º CAP** Obtendo ajuda no Linux
 
+    * :white_check_mark: Formas de Documentação
+    * :white_check_mark: Comandos `help`, `apropos`, E `whatis`
+    * :white_check_mark: Comando `man`
+    * :white_check_mark: Comandos `info`, `whereis`, E `which`
+    
 * **4º CAP** Filesystem Hierachy Standard e comandos indispensáveis
